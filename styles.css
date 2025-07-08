@@ -1,0 +1,54 @@
+body {
+    background-color: beige;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 370px;
+    background: #fff;
+    padding: 2rem 2rem 2rem 2rem;
+    border-radius: 18px;
+    box-shadow: 20px 20px 20px rgba(246, 219, 152, 0.83);
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 12px;
+    
+}
+
+div h1 {
+    color: brown;
+}
+
+div h3 {
+    color: chocolate;
+}
+
+
+
+div p strong {
+    font-weight: 600;
+    color: chocolate
+}
+
+footer {
+    margin: auto;
+    font-size: small;
+    color: crimson;
+    background-color: bisque;
+    border-top: 1px solid #fff;
+    border-bottom: #fff 1px solid;
+}
+
+footer a {
+    color: crimson;
+    text-decoration: none;
+    background-color: bisque;
+
+}
